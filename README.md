@@ -47,3 +47,4 @@
 :usage instruction
 ## 12. How can you succinctly convey the purpose and key features of a product?
 :Start with a clear and concise product vision statement: crafting a succint yet impact product vision statement is essential for effectively conveying your objectives to your team. Make sure it motivates them to take action and can be remembered easily
+assignment deadline:30 september 2024
